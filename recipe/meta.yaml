@@ -30,6 +30,7 @@ requirements:
     - pwkit
     - pytoml
     - six
+    - tensorflow >=2.10
 
 test:
   requires:
